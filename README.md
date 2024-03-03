@@ -1,12 +1,8 @@
 # Hotel Management System
 
-## Database Type: Hotel Management System
+The developed Hotel Management System aims automate various operations of a hotel. This system will help hotel management to streamline their day-to-day activities and ensure smooth operations.
 
-### Introduction:
-
-We propose the development of a comprehensive Hotel Management System that will automate various operations of a hotel. This system will help hotel management to streamline their day-to-day activities and ensure smooth operations.
-
-### Functionalities:
+## Functionalities:
 
 1. **Sign Up:** New customers will be able to register by their emails, set password and provide personal information.
 
@@ -45,11 +41,6 @@ We propose the development of a comprehensive Hotel Management System that will 
 3. Restore NuGet packages.
 4. Configure the database connection string in the `web.config` file.
 5. Build and run the project.
-
-## Contributors:
-
-- [Your Name](https://github.com/yourusername)
-- [Contributor Name](https://github.com/contributorusername)
 
 ## License:
 
